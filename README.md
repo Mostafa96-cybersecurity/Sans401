@@ -2,7 +2,7 @@
 
 ## Linux Part
 
-### **1. Where is Linux Used ?**
+### **1. What is Linux Used for ?**
  
  *Linux is a strong OS it has advantages and disadvantages. I mean disadvantages like it's not easy to use you must be familiar with it
  Linux used in big companies, google, youtube, and many companies 
@@ -64,7 +64,7 @@
    
    **Notice :** *there are another way to get help about commands this way is built in command itself such as " -h " , " --help "*
    
-   **Example :** *ls --help* 
+   **Example :** *man --help* 
    
    ![man2](https://user-images.githubusercontent.com/84593266/121805678-f22c7c00-cc00-11eb-974e-5affc453869b.PNG)
    
