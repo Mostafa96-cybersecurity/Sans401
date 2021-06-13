@@ -1,14 +1,20 @@
 # **Sans401**
+
 ## Linux Part
+
 ### **1. Where is Linux Used ?**
- *Linux is a strong OS it has advantages and disadvantages. I mean disadvantages like it's not easy to use you must be familiar with it.*
+ 
+ *Linux is a strong OS it has advantages and disadvantages. I mean disadvantages like it's not easy to use you must be familiar with it
  Linux used in big companies, google, youtube, and many companies 
  you can depend on it on the website's server such as apache service 
  the project of Linux comes from UNIX 
- Linux has many types, ubuntu,Redhat,Linux mint**
+ Linux has many types, ubuntu,Redhat,Linux mint*
+ 
  # Basic commands
- #   1- echo
-   **This command is used for print your input on screen**
+ 
+ # 1- echo
+ 
+ **This command is used for print your input on screen**
    
    **Example**  *(  echo "Hello World" )*
    
@@ -20,9 +26,10 @@
    
    ![echo2](https://user-images.githubusercontent.com/84593266/121803393-31090480-cbf6-11eb-9bc8-d01c0542965a.PNG)
     
-   **there is no newline the output is on the same line .** 
+   *there is no newline the output is on the same line .*
     
-   # 2- man command 
+ # 2- man command 
+   
    **This Command is used for help**
    
    **Example :** you want to know What does "echo" command or , how to use it . 
@@ -35,9 +42,11 @@
      - option
      - argument
    
-   **command :** is the main such as "ls" , "echo" , "cd" , "cp" .
+   **-command :** is the main such as "ls" , "echo" , "cd" , "cp" .
    
-   **option :** it's flag depend on your purpose such as *echo -n "hello World"* the flag here is "-n" you do not want to start a newline . **option part** *" optional not main part "*
+   **-option :** it's flag depend on your purpose such as *echo -n "hello World"* the flag here is "-n" you do not want to start a newline . 
+   
+   **-option part** *" optional not main part "*
    
    **argument** it comes after the command or both command and option for ***Example*** *" cp -r /home/Desktop/ / "*  paths here are arguments . 
    
@@ -63,7 +72,7 @@
    
    **--help :** *show you litle information*
    
-   # 3- ls command 
+ # 3- ls command 
    
    *this command is used to display the content of the directory*
    
@@ -86,8 +95,42 @@
    *-a displays all files , the hidden files start with " . " or " .. " .*
    
    *-l displays more information about the files as you see in the Example .*
-    
+   
+ # 4- cat command 
+   
+   *this command is used to display the content of files such as " file.txt "*
+   
+   **Example :** *i have a file contain "hello world" i want to read the contant of this file .*
+   
+   *Write " cat file.txt "*
+   
+   ![cat](https://user-images.githubusercontent.com/84593266/121809144-82be8880-cc10-11eb-8281-1aab6a121d1d.PNG)
+   
+   *cat command can accept options . for example we want to print the file content with lines .*
+   
+   *write " cat -n file.txt " > will print the file content with line numbers .*
+   
+   ![cat1](https://user-images.githubusercontent.com/84593266/121809445-adf5a780-cc11-11eb-908e-df266c7f2298.PNG) 
+      
+   *you noticed this*
+  
+   **note :** *the file you want to read not necessary be ended with .txt it could be " file " without .txt extension .*
+   
+ # 5- touch command 
+ 
+   *this command is very simple it can be used to create files .*
+   
+  **Example :** *i want to create a file name " new.txt " .* 
+  
+  *write " touch new.txt ".* 
+  
+  ![touch](https://user-images.githubusercontent.com/84593266/121809909-915a6f00-cc13-11eb-9a63-284a54891c4b.PNG)
 
+  *touch created the file " new.txt " as you see .*
+  
+  **note :** *there is more than one command to create files such as ( nano , gedit , vim , pico ) but touch is an easy command .*
+    
+  
    
     
    
