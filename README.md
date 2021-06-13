@@ -62,8 +62,30 @@
    **man command :** *show you more information about your command* 
    
    **--help :** *show you litle information*
-
    
+   # 3- ls command 
+   
+   *this command is used to display the content of the directory*
+   
+   **Example :**  * write "ls *
+     
+   ![ls](https://user-images.githubusercontent.com/84593266/121805949-69aedb00-cc02-11eb-9795-2ac3048c7688.PNG)
+
+   *the output show you this directory contain " file " as you see " ls " command make you see what the directory contain*
+   
+   **ls options :** *ls has many options but we will discuss the most important two option " -a " , " -l " .
+   
+   **-a :** *this option displays all files and directories even the hidden files .*
+   
+   **-l :** *this option displays long information about the files and directories such as " time , date , size , owner , permissions , the name of the file .*
+   
+   **Example -a , -l**
+   
+   ![ls -a](https://user-images.githubusercontent.com/84593266/121806348-57ce3780-cc04-11eb-90ba-98c952f6e7cd.PNG)
+
+   *-a displays all files , the hidden files start with " . " or " .. " .*
+   
+   *-l displays more information about the files as you see in the Example .*
     
 
    
